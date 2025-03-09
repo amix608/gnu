@@ -5,4 +5,7 @@ print(x/y)
 if x==0:print("no")
 print("ar")
 print("kiiii")
-
+print(x*y)
+print("ssd")
+print("derena")
+print("no")
