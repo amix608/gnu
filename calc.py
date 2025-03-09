@@ -3,6 +3,6 @@ print(x+y)
 print(x-y)
 print(x/y)
 if x==0:print("no")
-print(x*y)
-print("ssd")
+print("ara")
+print("kiiii")
 
